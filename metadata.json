@@ -1,0 +1,5 @@
+{
+  "name": "Visualizador Jardin Maison",
+  "description": "Faça o upload de uma foto do seu jardim e use prompts de texto para visualizar como uma casa sustentável ficaria no seu espaço, com a tecnologia Gemini.",
+  "requestFramePermissions": []
+}
